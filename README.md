@@ -1,5 +1,10 @@
 # DIO - Explorando Dados Demográficos com Serviços de Big Data na AWS
 
+Projeto-DIO
+
+<h3 align="center">Geração Tech Unimed-BH - Ciência de Dados - Bootcamp DIO</h3>
+
+
 ### Serviços utilizados neste projeto 
  - Amazon S3
  - Amazon Glue
